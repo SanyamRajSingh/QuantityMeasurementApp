@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf61bbe9-3192-4204-9e04-82d8956546f7" name="Changes" comment="" />
+    <list default="true" id="690703e7-f1f3-48fd-8edc-6183937e398d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/app/QuantityMeasurementApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/QuantityMeasurementApp.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
   "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="3CfndPu0EybDtTtdMEgV7EYgG77" />
+  <component name="ProjectId" id="3CfndK9pwzf0k2OZBfGEvHZpsRd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,7 +33,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "feature/UC1-FeetEquality",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/sanya/OneDrive/Desktop/B1P5_RA2411003010866/QuantityMeasurementApp/src/Main.java"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -31,11 +49,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bf61bbe9-3192-4204-9e04-82d8956546f7" name="Changes" comment="" />
-      <created>1776785580756</created>
+      <changelist id="690703e7-f1f3-48fd-8edc-6183937e398d" name="Changes" comment="" />
+      <created>1776785589259</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1776785580756</updated>
+      <updated>1776785589259</updated>
     </task>
     <servers />
   </component>
